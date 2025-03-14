@@ -1,0 +1,7 @@
+llama-index
+streamlit
+llama-index-indices-managed-llama-cloud
+llama_index.llms.ollama
+sqlalchemy
+index-indices-managed-llama-cloud
+index-viz
